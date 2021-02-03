@@ -17,7 +17,7 @@ int main(){
 	setlocale(LC_ALL, "RUS");
 	system("title Калькулятор на C++");
 	cout << "Добро пожаловать в простой калькулятор на C++" << endl;
-	cout << "Выбирите функцию:" << endl;
+	cout << "Выберите функцию:" << endl;
 	cout << "1 - Сложение" << endl;
 	cout << "2 - Вычитание" << endl;
 	cout << "3 - Умножение" << endl;
